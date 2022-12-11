@@ -67,7 +67,7 @@ nav ul li a {
 #header {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgb(0,0,0, 0.7),rgb(0,0,0, 0.7)), url(./img/adam-borkowski-a6G8fb0vcI8-unsplash.jpg);
+    background: linear-gradient(rgb(0,0,0, 0.7),rgb(0,0,0, 0.7)), url(../img/adam-borkowski-a6G8fb0vcI8-unsplash.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -610,7 +610,7 @@ color: rgb(206, 206, 206);
 #work {
     width: 100%;
     height: 50vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./img/josh-hild-0WCmBGTDsVE-unsplash.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/josh-hild-0WCmBGTDsVE-unsplash.jpg);
     background-position: center;
     background-size: cover;
 }
